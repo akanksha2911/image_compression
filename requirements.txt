@@ -24,4 +24,4 @@ urllib3==1.26.9
 Werkzeug==2.1.2
 yarg==0.1.9
 gunicorn
-cv2
+cv2==4.5.5
